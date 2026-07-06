@@ -1,0 +1,80 @@
+{
+  "members": [
+    {
+      "id": "m1",
+      "name": "王卓玺",
+      "role": "Northeastern University",
+      "focus": ""
+    },
+    {
+      "id": "m2",
+      "name": "张浩宇",
+      "role": "Northeastern University",
+      "focus": ""
+    },
+    {
+      "id": "m3",
+      "name": "郑士博",
+      "role": "Northeastern University",
+      "focus": ""
+    }
+  ],
+  "papers": [
+    {
+      "id": "p1",
+      "title": "Can LLMs Resolve Dependencies? A Benchmark for Semantic-Versioning Constraint Reasoning and Dependency Resolution",
+      "first": "王卓玺",
+      "others": "张浩宇, Jingwen Hou, 郑士博",
+      "venue": "ECNCT 2026",
+      "tier": "",
+      "year": 2026,
+      "status": "accepted",
+      "arxiv": "",
+      "doi": "",
+      "citations": 0,
+      "history": []
+    },
+    {
+      "id": "p2",
+      "title": "Lost in the Trajectory: Serial-Position Bias in LLM-as-Judge Step-Level Error Attribution on Agent Trajectories",
+      "first": "王卓玺",
+      "others": "Jingwen Hou, 张浩宇",
+      "venue": "AIoTC 2026",
+      "tier": "",
+      "year": 2026,
+      "status": "accepted",
+      "arxiv": "",
+      "doi": "",
+      "citations": 0,
+      "history": []
+    },
+    {
+      "id": "p3",
+      "title": "CPEMatch: A Controlled Benchmark for LLM Reasoning over CPE/purl Vulnerability-Identifier Applicability",
+      "first": "王卓玺",
+      "others": "张浩宇, Jingwen Hou",
+      "venue": "AIoTC 2026",
+      "tier": "",
+      "year": 2026,
+      "status": "accepted",
+      "arxiv": "",
+      "doi": "",
+      "citations": 0,
+      "history": []
+    },
+    {
+      "id": "p4",
+      "title": "StreamSQL-Repair-Bench: Does Execution Feedback Let Agents Fix Event-Time Streaming SQL?",
+      "first": "张浩宇",
+      "others": "王卓玺",
+      "venue": "IJICTT（期刊）",
+      "tier": "",
+      "year": 2026,
+      "status": "accepted",
+      "arxiv": "",
+      "doi": "",
+      "citations": 0,
+      "history": []
+    }
+  ]
+}
