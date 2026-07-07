@@ -75,6 +75,20 @@
       "doi": "",
       "citations": 0,
       "history": []
+    },
+    {
+      "id": "p1783435305793",
+      "title": "Can Large Language Models Reason about Event-Time Stream-Processing Semantics?",
+      "first": "王卓玺",
+      "others": "张浩宇,郑士博",
+      "venue": "ICCVDM 2026",
+      "tier": "",
+      "year": 2026,
+      "status": "accepted",
+      "arxiv": "",
+      "doi": "",
+      "citations": 0,
+      "history": []
     }
   ]
 }
