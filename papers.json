@@ -89,6 +89,34 @@
       "doi": "",
       "citations": 0,
       "history": []
+    },
+    {
+      "id": "p1784851724906",
+      "title": "When Agents Stop Counting: Measuring Paginated-Aggregation Collapse and Completeness Overconfidence in Tool-Using Language-Model",
+      "first": "郑士博",
+      "others": "张浩宇,王卓玺",
+      "venue": "",
+      "tier": "",
+      "year": 2026,
+      "status": "accepted",
+      "arxiv": "",
+      "doi": "",
+      "citations": 0,
+      "history": []
+    },
+    {
+      "id": "p1784851768394",
+      "title": "VulnTriage-Bench: Benchmarking LLM Vulnerability-Triage Reasoning Against a Deterministic Programmatic Oracle",
+      "first": "张浩宇",
+      "others": "郑士博,王卓玺",
+      "venue": "",
+      "tier": "",
+      "year": 2026,
+      "status": "accepted",
+      "arxiv": "",
+      "doi": "",
+      "citations": 0,
+      "history": []
     }
   ]
 }
